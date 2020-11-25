@@ -1,0 +1,46 @@
+# depslib dependency file v1.0
+1606310761 source:c:\users\mai'tities\desktop\molinasplabo\linkedlist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+
+1606310859 c:\users\mai'tities\desktop\molinasplabo\linkedlist.h
+
+1606310990 source:c:\users\mai'tities\desktop\molinasplabo\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+	"Controller.h"
+	"Employee.h"
+	<time.h>
+
+1606310990 c:\users\mai'tities\desktop\molinasplabo\controller.h
+
+1606311848 c:\users\mai'tities\desktop\molinasplabo\employee.h
+
+1606309159 source:c:\users\mai'tities\desktop\molinasplabo\parser.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Employee.h"
+
+1606311901 source:c:\users\mai'tities\desktop\molinasplabo\employee.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	"string.h"
+	"Employee.h"
+	<time.h>
+
+1606312105 source:c:\users\mai'tities\desktop\molinasplabo\controller.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Employee.h"
+	"parser.h"
+	"Controller.h"
+
+1606308235 c:\users\mai'tities\desktop\molinasplabo\parser.h
+
